@@ -1,4 +1,4 @@
 # satyam-demo
 This is my first git repository
 <br>
-Author - satyam kumar
+Author - satyam (singh)
