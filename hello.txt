@@ -1,4 +1,4 @@
-#i am doing changes to the main branch and will later merge dev to the main branch
+#i am doing changes to the main branch and will later merge armo to the main branch. I am from armo branch
 
 hello everyone i am main branch and i am facing many problem while merging . I have tried 
 many times to resolve the error but i am not able to 
