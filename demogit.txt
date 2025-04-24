@@ -1,2 +1,7 @@
-hello i am main branch and and merging to the dev branch (I am from dev branch)
 
+hello i am main branch and and merging
+to the dev branch (I am from dev branch)
+
+hello every one i am from main branch
+and dev tries to merge with me
+ main
