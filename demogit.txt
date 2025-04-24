@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello every one i am from main branch
+=======
+hello i am main branch and and merging to the dev branch (I am from dev branch)
+
+>>>>>>> dev
