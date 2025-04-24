@@ -1,3 +1,5 @@
+#i am doing changes to the main branch and will later merge dev to the main branch
+
 hello everyone i am main branch and i am facing many problem while merging . I have tried 
 many times to resolve the error but i am not able to 
 resolve that error but i am practising it very much and one day i will master it.
